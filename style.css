@@ -1,0 +1,70 @@
+* {
+    background-color: black;
+}
+
+/* * {
+  border: 1px solid black;
+} */
+
+body {
+   width: 80%;
+   margin: auto;
+    
+}
+
+#div1 h1 {
+    font-family: "Lobster", cursive;
+    color: white;
+    text-align: center;
+}
+
+#div2 p {
+    color: white;
+    font-size: x-small;
+    text-align: center;
+}
+
+#div1 h1 span {
+    color: red;
+}
+
+#div1 .sdiv1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 30px;
+}
+
+
+#div3 p {
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+
+#div4 h2 {
+    color: white;
+    font-family: "Lobster", cursive;
+    font-size: x-large;
+    text-align: left;
+}
+
+#div4 ul {
+    color: white;
+    font-size: small;
+    text-align: left;
+    line-height: 2;
+}
+
+
+#footer {
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+#footer a {
+    color: red;
+}
+
+
